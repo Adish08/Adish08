@@ -1,9 +1,9 @@
 # Hey 👋 What's up?
 
-<img width="960" alt="Vertex deisgn Banner" src="https://github.com/user-attachments/assets/83c10934-2d5f-4a3c-bee7-d9ad3538e170">
+![Artboard1@5x](https://github.com/user-attachments/assets/220985d4-fc48-4a90-8373-26af9d2c7a7b)
 
 My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic designer, and Webflow developer from India 🇮🇳.
-
+---
 ## About me
 
 - 🔭 I’m currently working on building custom websites using React.js and Webflow  
@@ -13,7 +13,7 @@ My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic desi
 - 🧑‍💻 Ask me about web development, graphic design, and front-end frameworks  
 - 📫 How to reach me: [Click here](https://designvertex.t.me/)  
 - ⚡ Fun fact: I'm a left-handed developer with a deep love for Suddh Hindi and patriotic poetry!  
-
+---
 ## I code with
 
 <div align="left">
