@@ -1,5 +1,7 @@
 # Hey 👋 What's up?
 
+<img width="960" alt="Vertex deisgn Banner" src="https://github.com/user-attachments/assets/83c10934-2d5f-4a3c-bee7-d9ad3538e170">
+
 My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic designer, and Webflow developer from India 🇮🇳.
 
 ## About me
