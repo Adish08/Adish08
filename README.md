@@ -1,6 +1,6 @@
 # Hey 👋 What's up?
 
-![Artboard1@5x](https://github.com/user-attachments/assets/220985d4-fc48-4a90-8373-26af9d2c7a7b)
+<!-- ![Artboard1@5x](https://github.com/user-attachments/assets/220985d4-fc48-4a90-8373-26af9d2c7a7b) -->
 
 My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic designer, and Webflow developer from India 🇮🇳.
 ---
