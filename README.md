@@ -30,4 +30,4 @@ My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic desi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Adish08&icon=5&color=12)](https://github.com/Adish08)
+![](https://badges.pufler.dev/visits/Adish08/Adish08)
