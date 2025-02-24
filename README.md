@@ -11,7 +11,7 @@ My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic desi
 - 🤝 I’m looking to collaborate on open-source projects that focus on web development and design  
 - 💡 I'm looking for help with advanced React concepts and design systems  
 - 🧑‍💻 Ask me about web development, graphic design, and front-end frameworks  
-- 📫 How to reach me: [Click here](https://designvertex.t.me/)  
+- 📫 How to reach me: [Click here](https://Adish08.t.me/)  
 - ⚡ Fun fact: I'm a left-handed developer with a deep love for Suddh Hindi and patriotic poetry! 
 
 # 💻 Tech Stack:
