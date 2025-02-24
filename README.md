@@ -30,4 +30,9 @@ My name is **Adish Sagarawat**, and I'm a passionate web developer, graphic desi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://badges.pufler.dev/visits/Adish08/Adish08)
+![Visits Badge](https://badges.pufler.dev/visits/Adish08/Adish08)
+![Repos Badge](https://badges.pufler.dev/repos/Adish08)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/Adish08)
+
+**:star:Starred Repos**
+![Last Stars Display](https://badges.pufler.dev/last-stars/Adish08?count=6&padding=15&perRow=3)
