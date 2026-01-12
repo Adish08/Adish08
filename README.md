@@ -10,4 +10,4 @@
 - 📫 How to reach me: [Click here](mailto:adish.sag@gmail.com)  
 - ⚡ Fun fact: I'm a left-handed person, trying to do the right things.
 
-![Visits Badge](https://badges.pufler.dev/visits/Adish08/Adish08)
+![Profile Views](https://komarev.com/ghpvc/?username=Adish08&label=PROFILE%20VIEWS&color=0e75b6&style=flat&logo=github)
